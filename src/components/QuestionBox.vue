@@ -15,6 +15,7 @@
     </p>
 
     <b-button variant="primary" href="#">Submit your Quiz</b-button>
+    
     <b-button variant="success" href="#">Next Quiz</b-button>
   </b-jumbotron>
 </div>
