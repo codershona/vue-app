@@ -6,6 +6,8 @@
 ```
   * yarn serve ;
   * Check localhost: 8080 ;
+  * npm i bootstrap-vue bootstrap ;
+  * npm install --save bootstrap-vue ;
   * 
 
 
