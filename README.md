@@ -1,26 +1,4 @@
-# Pet Quiz app
-
-
-* NOTES :
-
-```
-  * yarn serve ;
-  * Check localhost: 8080 ;
-  * npm i bootstrap-vue bootstrap ;
-  * npm install --save bootstrap-vue ;
-  * npm install --save core-js/modules/es.object.to-string  to fix the bugs ;
-  * 
-
-
-```
-
-
-
-
-
-
-
-
+# vue-app
 
 ## Project setup
 ```
@@ -41,3 +19,6 @@ yarn build
 ```
 yarn lint
 ```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
