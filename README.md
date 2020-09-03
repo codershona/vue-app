@@ -4,6 +4,11 @@
 * NOTES :
 
 ```
+  * yarn serve ;
+  * Check localhost: 8080 ;
+  * npm i bootstrap-vue bootstrap ;
+  * npm install --save bootstrap-vue ;
+  * npm install --save core-js/modules/es.object.to-string  to fix the bugs ;
   * 
 
 
